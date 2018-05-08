@@ -12,6 +12,9 @@
 #include "open_port.c"
 #include "set_com_config.c"
 
+
+
+//
 #define BUFF_SIZE 1024
 
 int main(void)
